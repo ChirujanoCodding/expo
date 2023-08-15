@@ -1,3 +1,2 @@
-# Canvas-Shooter-JavaScript
-This project is about HTML Canvas & JavaScript <br>
-[Link For This Project](https://ksrisayee12.github.io/Canvas-Shooter-JavaScript/)
+# Expotecnica
+Esta pagina web es un juego en 2D de estilo shooter el cual en vez de disparar de forma convencional, se utilizan los ojos para trackear el movimiento de la mira.
